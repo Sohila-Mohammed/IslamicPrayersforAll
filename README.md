@@ -24,5 +24,5 @@ of the prayers I compiled.
 I have also used CSS for all the HTML files to ensure that the HTML codes’ contents will be presented in a neat, readable way.
 I also limited the color scheme in my website so that the contents of a page are easy to read and so that the users will get used to the style of the website. 
 ### Credits:
-This project is a one-person project created by Sohaila. I was mainly able to create this website using the knowledge I have garnered from
+This project is a one-person project created by myself in 2021. I was mainly able to create this website using the knowledge I have garnered from
 "CS50’s Introduction to Computer Science" course. If you have noticed any bug in this website, please notify me so that I fix it.
